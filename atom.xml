@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-02T16:37:05.181Z</updated>
+  <updated>2016-07-06T06:15:22.057Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>最快方法搭建Hexo博客</title>
+    <link href="http://yoursite.com/2016/07/06/hexo_setup/"/>
+    <id>http://yoursite.com/2016/07/06/hexo_setup/</id>
+    <published>2016-07-06T06:12:42.000Z</published>
+    <updated>2016-07-06T06:15:22.057Z</updated>
+    
+    <content type="html">&lt;p&gt;注：此方法指的是在Windows下。已经在Windows 10 64bit下实测。 &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;安装node.js&lt;br&gt;此软件可以在 &lt;a href=&quot;https://nodejs.org/en/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://nodejs.org/en/&lt;/a&gt; 下到最新版&lt;/li&gt;
+&lt;li&gt;安装git&lt;br&gt;此软件可以在 &lt;a href=&quot;https://git-for-windows.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://git-for-windows.github.io/&lt;/a&gt; 下到最新版。&lt;/li&gt;
+&lt;li&gt;运行安装命令&lt;br&gt;最新版的安装命令来自于&lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hexo官网&lt;/a&gt;。&lt;br&gt;创建一个用安装hexo的目录，如D:\hexo&lt;br&gt;用管理员权限打开cmd,转到刚才建立的那个目录。&lt;br&gt;依次运行以下命令&lt;br&gt; npm install hexo-cli -g&lt;br&gt; hexo init blog&lt;br&gt; cd blog&lt;br&gt; npm install&lt;br&gt; hexo server&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;博客在本地即可运行。&lt;/p&gt;
+&lt;p&gt;博客的上传下次讲。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;注：此方法指的是在Windows下。已经在Windows 10 64bit下实测。 &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;安装node.js&lt;br&gt;此软件可以在 &lt;a href=&quot;https://nodejs.org/en/&quot; target=&quot;_blank&quot; rel=&quot;externa
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>New Blog to Start</title>
@@ -37,9 +65,9 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/03/17/hello-world/"/>
-    <id>http://yoursite.com/2016/03/17/hello-world/</id>
-    <published>2016-03-17T14:16:37.054Z</published>
+    <link href="http://yoursite.com/1954/07/25/hello-world/"/>
+    <id>http://yoursite.com/1954/07/25/hello-world/</id>
+    <published>1954-07-25T02:27:06.535Z</published>
     <updated>2016-03-17T14:16:37.054Z</updated>
     
     <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
